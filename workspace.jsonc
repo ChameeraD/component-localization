@@ -66,8 +66,20 @@
    * see https://harmony-docs.bit.dev/aspects/variants for more info.
    **/
   "teambit.workspace/variants": {
-    "*": {
+    "localization/translations/i18n": {
       "teambit.harmony/node": {}
+    },
+    "localization/translations/language-provider": {
+      "teambit.react/react": {}
+    },
+    "localization/components/header": {
+      "teambit.react/react": {}
+    },
+    "localization/components/profile": {
+      "teambit.react/react": {}
+    },
+    "localization/components/dashboard": {
+      "teambit.react/react": {}
     }
   }
 }
