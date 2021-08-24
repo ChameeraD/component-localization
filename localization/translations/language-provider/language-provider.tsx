@@ -2,7 +2,7 @@ import React from 'react';
 import { ChangeLanguage, UseTranslation, Translations} from '@localization/translations.i18n';
 
 Translations();
-
+//@ts-ignore
 export const Context = React.createContext();
 
 export interface LanguageProviderProps extends React.HTMLAttributes<React.ReactNode> {

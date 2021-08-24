@@ -2,32 +2,32 @@
 
 {
     "components/dashboard": {
-        "scope": "",
-        "version": "0.0.1",
+        "scope": "enlear.localization",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "localization/components/dashboard"
     },
     "components/header": {
-        "scope": "",
-        "version": "0.0.1",
+        "scope": "enlear.localization",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "localization/components/header"
     },
     "components/profile": {
-        "scope": "",
-        "version": "0.0.1",
+        "scope": "enlear.localization",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "localization/components/profile"
     },
     "translations/i18n": {
-        "scope": "",
+        "scope": "enlear.localization",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "localization/translations/i18n"
     },
     "translations/language-provider": {
-        "scope": "",
-        "version": "0.0.1",
+        "scope": "enlear.localization",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "localization/translations/language-provider"
     },

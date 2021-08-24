@@ -26,7 +26,7 @@
     /**
      * default scope for all components in workspace.
      **/
-    "defaultScope": "localization"
+    "defaultScope": "enlear.localization"
   },
   /**
    * main configuration for component dependency resolution.

@@ -5,6 +5,7 @@ import React, { useContext } from 'react';
 import { Context } from '@localization/translations.language-provider';
 
 export function Dashboard() {
+  //@ts-ignore
   const {i18n}= useContext(Context);
   return (
         <Grid container direction="column" spacing={2}>
